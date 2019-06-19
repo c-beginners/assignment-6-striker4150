@@ -4,9 +4,9 @@ Challenge issued by **@Odai**.
 
 Write a program that continues to ask the user to enter any number except x (take 5 for example). If the input number is x, warn the user and terminate the program or loop until the user enters any non-x numbers y times. Once the user enters any non-x numbers y times, a "round" is completed.
 
-Bonus: Add a scoring system where the user receives 1 point every time the user completes a round and count how many times the user entered a valid non-x number. Terminate when the user enters "exit".
+Bonus: Add a scoring system where the user receives 1 point every time the user completes a round and count how many times the user entered a valid non-x number.
 
-- Deadline: 6/14/19 8:00PM GMT
+- Deadline: 6/20/19 8:00PM GMT
 
 Challenge inspiration: http://www.cplusplus.com/forum/articles/12974/
 
